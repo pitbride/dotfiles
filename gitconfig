@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = pierre_bride@icloud.com
+	email = gh api pierre_bride@icloud.com
 	name = Pierre Bride
